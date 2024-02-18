@@ -12,7 +12,7 @@ This is a simple chat application built with Node.js, Socket.IO, HTML, and CSS. 
 
 1. Clone the repository or download the source code.
 2. Install dependencies using `npm install`.
-3. Run the server using `node server.js`.
+3. Run the server using `node index.js`.
 4. Access the chat app in your web browser.
 5. Start sending messages and see them displayed in real-time.
 
